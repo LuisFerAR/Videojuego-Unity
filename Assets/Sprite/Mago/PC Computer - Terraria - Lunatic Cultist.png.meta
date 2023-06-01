@@ -1,0 +1,1927 @@
+fileFormatVersion: 2
+guid: fb718635b8be95e4ebd933d983354e6b
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 962
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eb684341701244da6829729114893c
+      internalID: -436846631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 962
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46854938ef28e24cb1832a8aee979fc
+      internalID: -1173823593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 918
+        width: 92
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac487ef6c5f11494d9c2802afea9ab84
+      internalID: -177408208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_3
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 970
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f19223418e040343822c4f432dc0258
+      internalID: 1117155353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_4
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 930
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6ce4a84947a07448175d1273a94ad0
+      internalID: -161333155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 928
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22e135700573374c95fca15758c556b
+      internalID: 1583459335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 598
+        width: 408
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 056f6920ec651b44aa65824048495984
+      internalID: -459254920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 898
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e380a2a8980c54da86d84daf7f8761
+      internalID: 946874113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_8
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 898
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64188f0b9e73edc4fa5fae88ee9e01b9
+      internalID: -1080748310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_9
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 918
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d7cc0a9e0e8a045855f78de02f25c3
+      internalID: -178427810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_10
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 920
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5f7bde4b202d2499b22d8a6ac2844c
+      internalID: -160735560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028a0088cc979a74da1afd5dee2cfd2c
+      internalID: 187666675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_12
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 834
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2960f6b4d320564ebad0945682ff948
+      internalID: -1552241909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 874
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d843bc831d9efc44f97be3b34cd5c86f
+      internalID: 1100654239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 866
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8345c251bbdf1c6408663d28cef1eadf
+      internalID: 1948486455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_15
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 826
+        width: 52
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193be81c1794db144af6a011870506c1
+      internalID: 536291392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_16
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 838
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c1e8d47fcaf7a49bbfe81db07aadd0
+      internalID: -982412781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_17
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 830
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bfdc51542925f43834a9d6dd4b309f
+      internalID: -2016358470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 844
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da93933603ef3b449e6bdc93c439f22
+      internalID: 518941836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_19
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 812
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92de02aadccdf6e41bed1eb0d6db796e
+      internalID: 563207384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f2de4cbcea9414581485a9d4e711d1
+      internalID: -851254888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 770
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fc25db81d80564fb57f8c56a5ad9ec
+      internalID: -357321320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 788
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a89529741e1b3804bb775ad0d295ec64
+      internalID: -35353183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_23
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 722
+        width: 68
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acfb2e8d183f1c468cfc9982c688e22
+      internalID: -11028907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_24
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 750
+        width: 94
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13feb29c44bc5e84bbccefde408e4175
+      internalID: -726482750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_25
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 708
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f9b4eecd7228240a6058f038271fcd
+      internalID: -1389282790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_26
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 708
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a516ea57c8fae34d8ac12647d92fcfd
+      internalID: 1188687732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 746
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ce1b61ebaf0a64996f85e73f34162b
+      internalID: 1611595457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d3c2642ae46c84fbacbf40614446d9
+      internalID: 504945705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_29
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 642
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f4bd32966897349a929bda36f96c64
+      internalID: 1368158915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_30
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 634
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8e81a8985d50b4f9056c0f684aeb74
+      internalID: 1842315944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_31
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 680
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2734f329e2121946986249ff2395fb6
+      internalID: -493188719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_32
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 666
+        width: 96
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d11216494a714542b0d8ce60b9836c3
+      internalID: -1236073038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_33
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 640
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38e092b5e13ee064380164e2c90dc6c1
+      internalID: -1669960142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 582
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d211c2193eab7642b06f65f114fdffb
+      internalID: 282083684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 582
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b98909c6feb884ba16a7b7a6045ad5
+      internalID: -1929886108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_36
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 534
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695ee88a2a111e54d99b800e0de90eca
+      internalID: -1197374963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_37
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 600
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4e5b24bde79ff43b8d1bcfcef80a3d
+      internalID: -1205236030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_38
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 586
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa0d1009e981044c9c5ab47066399fe
+      internalID: -1414866786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 516
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be6894661a94d243acb7507d8df08ee
+      internalID: -398201320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 516
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1a80b86c7c02694da1a15c9b5b63b65
+      internalID: -711040412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_41
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 560
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99d45b7f522e934fbc54db3544cd7f6
+      internalID: 585644877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_42
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 536
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0c831776b9d1a408cf7a5c5f10f3c6
+      internalID: 1419572818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_43
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2262924fd843d945aad19faa856b423
+      internalID: -1929442789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_44
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 450
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363f65e3d2ab9574c95d25df8c219601
+      internalID: -1564123410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_45
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 434
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3090212d4c9024082d76a517dc0e56
+      internalID: -658930598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_46
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 496
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b0681c3be92eb488c26c6b0b86a349
+      internalID: 1831637767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_47
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 486
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f32916e55926e04f86c442441565b89
+      internalID: -1750575705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_48
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 390
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac57cb9b49a83a428eee3c1805ace66
+      internalID: 1679748097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_49
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 390
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d470ce23521111499ad2e86967ac088
+      internalID: -370149351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_50
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 420
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3746358726749804483cc5e84a923def
+      internalID: -1180619499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_51
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 436
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea472ef3f7677c6468edb082662b4a5b
+      internalID: -1497258863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_52
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 334
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bb93d8860a22544b1ed32b9ac8703d
+      internalID: -563416180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_53
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 386
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00b3c5752599a874a92fc81545cc5796
+      internalID: -142528604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 324
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89abdfc32c9e2b84f8eed58d31e7605f
+      internalID: 1427379722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_55
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 324
+        width: 42
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f840234108397f44eb2cdfb27151a642
+      internalID: 411427858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db2c2edb64e8c254d90a2e4871495481
+      internalID: 1587510113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_57
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 258
+        width: 42
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdce5c222ea15824498f1a36bf4705d9
+      internalID: -1417467775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_58
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 102
+        width: 330
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f1bff7d61272e4bb67182fb9d9aa29
+      internalID: -2055875254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bdca38be56a246bed8e8176f56ccd
+      internalID: 2124595084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_60
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 198
+        width: 42
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76f3f036083294d4abc5556b7124820a
+      internalID: -1572903018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 132
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94747dc963aa3db488a28b11304ff90a
+      internalID: -1893944096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_62
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 132
+        width: 44
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb6ff722209de448a5a1403a9cfc14
+      internalID: -889005244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4091884eaa22d42956a78794bc4696
+      internalID: -1678141416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_64
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 66
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce45c7633e042f4bb8c56643c6c9897
+      internalID: 1001098198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_65
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dab1cb01747f00448a8eecad2f68bd0
+      internalID: 341174556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_66
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 92
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6998abcfbe83d48a5af04fd047952d
+      internalID: 936425732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_67
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 76
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24985f1ee037615448ce35d97c5b9bc6
+      internalID: 506552839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_68
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72997e80de1544a40adbcccb302e54bc
+      internalID: 1338835749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_69
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 76
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d039040a9f63107448d765e8770d0149
+      internalID: -1416667789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_70
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 86
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69450725391ffa049be644f74bdea336
+      internalID: -1385083932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_71
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c76e5e594a027d4082e873b33a26e79
+      internalID: 847997935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_72
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3228ee01a4bc71429f21495f932a221
+      internalID: -733075363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_73
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3e4ef6dbf295d42a640046da7c8000
+      internalID: -1647335286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_74
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 76
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4c22e11a8602b4885b318dd4b32413
+      internalID: 656672806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 76
+        width: 4
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdfcc2d76a312046a0a9690096d8ba1
+      internalID: -1544909988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_76
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7a5067d8354f94dba2067246535be8
+      internalID: -1224751341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_77
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7e1e02a85c3184194e43ae9b787142
+      internalID: 655369999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_78
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd357cf376821ba409b7cedfe4c2be64
+      internalID: 1281580189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_79
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 76
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dfd1320f949414c9e9082c17453c48
+      internalID: -1836620959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1576e186d0c9d7b459e7e5b83b13a558
+      internalID: 1172482866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - Terraria - Lunatic Cultist_81
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bb142b3ad46e4882653b45be682ee
+      internalID: -296722750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - Terraria - Lunatic Cultist_53: -142528604
+      PC Computer - Terraria - Lunatic Cultist_50: -1180619499
+      PC Computer - Terraria - Lunatic Cultist_51: -1497258863
+      PC Computer - Terraria - Lunatic Cultist_74: 656672806
+      PC Computer - Terraria - Lunatic Cultist_21: -357321320
+      PC Computer - Terraria - Lunatic Cultist_66: 936425732
+      PC Computer - Terraria - Lunatic Cultist_76: -1224751341
+      PC Computer - Terraria - Lunatic Cultist_12: -1552241909
+      PC Computer - Terraria - Lunatic Cultist_77: 655369999
+      PC Computer - Terraria - Lunatic Cultist_80: 1172482866
+      PC Computer - Terraria - Lunatic Cultist_19: 563207384
+      PC Computer - Terraria - Lunatic Cultist_61: -1893944096
+      PC Computer - Terraria - Lunatic Cultist_65: 341174556
+      PC Computer - Terraria - Lunatic Cultist_47: -1750575705
+      PC Computer - Terraria - Lunatic Cultist_35: -1929886108
+      PC Computer - Terraria - Lunatic Cultist_68: 1338835749
+      PC Computer - Terraria - Lunatic Cultist_40: -711040412
+      PC Computer - Terraria - Lunatic Cultist_4: -161333155
+      PC Computer - Terraria - Lunatic Cultist_32: -1236073038
+      PC Computer - Terraria - Lunatic Cultist_17: -2016358470
+      PC Computer - Terraria - Lunatic Cultist_20: -851254888
+      PC Computer - Terraria - Lunatic Cultist_27: 1611595457
+      PC Computer - Terraria - Lunatic Cultist_18: 518941836
+      PC Computer - Terraria - Lunatic Cultist_2: -177408208
+      PC Computer - Terraria - Lunatic Cultist_13: 1100654239
+      PC Computer - Terraria - Lunatic Cultist_54: 1427379722
+      PC Computer - Terraria - Lunatic Cultist_28: 504945705
+      PC Computer - Terraria - Lunatic Cultist_57: -1417467775
+      PC Computer - Terraria - Lunatic Cultist_64: 1001098198
+      PC Computer - Terraria - Lunatic Cultist_52: -563416180
+      PC Computer - Terraria - Lunatic Cultist_30: 1842315944
+      PC Computer - Terraria - Lunatic Cultist_67: 506552839
+      PC Computer - Terraria - Lunatic Cultist_31: -493188719
+      PC Computer - Terraria - Lunatic Cultist_55: 411427858
+      PC Computer - Terraria - Lunatic Cultist_39: -398201320
+      PC Computer - Terraria - Lunatic Cultist_33: -1669960142
+      PC Computer - Terraria - Lunatic Cultist_71: 847997935
+      PC Computer - Terraria - Lunatic Cultist_9: -178427810
+      PC Computer - Terraria - Lunatic Cultist_56: 1587510113
+      PC Computer - Terraria - Lunatic Cultist_46: 1831637767
+      PC Computer - Terraria - Lunatic Cultist_10: -160735560
+      PC Computer - Terraria - Lunatic Cultist_5: 1583459335
+      PC Computer - Terraria - Lunatic Cultist_16: -982412781
+      PC Computer - Terraria - Lunatic Cultist_11: 187666675
+      PC Computer - Terraria - Lunatic Cultist_36: -1197374963
+      PC Computer - Terraria - Lunatic Cultist_75: -1544909988
+      PC Computer - Terraria - Lunatic Cultist_48: 1679748097
+      PC Computer - Terraria - Lunatic Cultist_79: -1836620959
+      PC Computer - Terraria - Lunatic Cultist_59: 2124595084
+      PC Computer - Terraria - Lunatic Cultist_69: -1416667789
+      PC Computer - Terraria - Lunatic Cultist_72: -733075363
+      PC Computer - Terraria - Lunatic Cultist_73: -1647335286
+      PC Computer - Terraria - Lunatic Cultist_63: -1678141416
+      PC Computer - Terraria - Lunatic Cultist_0: -436846631
+      PC Computer - Terraria - Lunatic Cultist_6: -459254920
+      PC Computer - Terraria - Lunatic Cultist_29: 1368158915
+      PC Computer - Terraria - Lunatic Cultist_41: 585644877
+      PC Computer - Terraria - Lunatic Cultist_25: -1389282790
+      PC Computer - Terraria - Lunatic Cultist_26: 1188687732
+      PC Computer - Terraria - Lunatic Cultist_62: -889005244
+      PC Computer - Terraria - Lunatic Cultist_42: 1419572818
+      PC Computer - Terraria - Lunatic Cultist_43: -1929442789
+      PC Computer - Terraria - Lunatic Cultist_70: -1385083932
+      PC Computer - Terraria - Lunatic Cultist_81: -296722750
+      PC Computer - Terraria - Lunatic Cultist_14: 1948486455
+      PC Computer - Terraria - Lunatic Cultist_34: 282083684
+      PC Computer - Terraria - Lunatic Cultist_15: 536291392
+      PC Computer - Terraria - Lunatic Cultist_45: -658930598
+      PC Computer - Terraria - Lunatic Cultist_22: -35353183
+      PC Computer - Terraria - Lunatic Cultist_78: 1281580189
+      PC Computer - Terraria - Lunatic Cultist_60: -1572903018
+      PC Computer - Terraria - Lunatic Cultist_23: -11028907
+      PC Computer - Terraria - Lunatic Cultist_3: 1117155353
+      PC Computer - Terraria - Lunatic Cultist_8: -1080748310
+      PC Computer - Terraria - Lunatic Cultist_24: -726482750
+      PC Computer - Terraria - Lunatic Cultist_38: -1414866786
+      PC Computer - Terraria - Lunatic Cultist_58: -2055875254
+      PC Computer - Terraria - Lunatic Cultist_37: -1205236030
+      PC Computer - Terraria - Lunatic Cultist_7: 946874113
+      PC Computer - Terraria - Lunatic Cultist_49: -370149351
+      PC Computer - Terraria - Lunatic Cultist_44: -1564123410
+      PC Computer - Terraria - Lunatic Cultist_1: -1173823593
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

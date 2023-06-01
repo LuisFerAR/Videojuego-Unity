@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2687664942942331582
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2687664942942331576}
+  - component: {fileID: 2687664942942331583}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2687664942942331576
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2687664942942331582}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 45.48, y: 0, z: 1.0000001}
+  m_LocalScale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2687664942942331583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2687664942942331582}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 73600b8a3edbd42439b57fdf24b3da6f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  plataforma: {fileID: 4783081745294479211, guid: 773886a51d366bb49ac8054442cb5732, type: 3}
+  lblMonedas: {fileID: 0}
+  lblVidas: {fileID: 0}
+  btnReiniciar: {fileID: 0}
+  plataformaDos: {fileID: -1171624043096774022, guid: 1f8916916a99ca14ea0c81c1ee6eac37, type: 3}
+  plataformaTres: {fileID: -2239284974176733537, guid: e0f5da0e25577de48bcc0b7c5b03c3da, type: 3}
+  plataformaCuatro: {fileID: 6700604230958051907, guid: 0311c3b45a7cf864c9e0f1b674e175b3, type: 3}
+  plataformaCinco: {fileID: -8881395936725559851, guid: f9c1afa6567085d4ca82c2c5e93353f0, type: 3}
+  plataformaSeis: {fileID: 1255205072517099068, guid: 644c7f2655b3ca041bca4598397f8b0a, type: 3}
+  plataformaSiete: {fileID: -7736909435297999112, guid: 5bd2668ed0de81343957ca9bc7e9d066, type: 3}
+  plataformaOcho: {fileID: -3012270629779804811, guid: bee73364e04763e4680be3e4f1d4284a, type: 3}
+  plataformaNueve: {fileID: 6910696390139270641, guid: 75827c1d4c29910488701f259f370e77, type: 3}
